@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1708606762 source:e:\c\finalbanksimulation\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+
+1708607500 source:e:\c\mary harby\finalbanksimulation\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<cstdlib>
+
